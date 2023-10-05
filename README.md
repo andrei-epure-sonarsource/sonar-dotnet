@@ -1,5 +1,8 @@
 # Code Quality and Security for C\# and VB.NET
 
+![Alt](https://repobeats.axiom.co/api/embed/1a13650a473ab3442d3b0ffad48b137120d0bdb1.svg "Repobeats analytics image")
+
+
 [![Build Status](https://dev.azure.com/sonarsource/DotNetTeam%20Project/_apis/build/status/Sonar.Net?branchName=master)](https://dev.azure.com/sonarsource/DotNetTeam%20Project/_build/latest?definitionId=77&branchName=master)
 
 |Product|Quality Gate|Coverage|
